@@ -58,8 +58,17 @@ This code is released MIT License. See the [LICENSE](LICENSE) file for details.
 ---
 
 ## Citation
+If you use this work, please cite:
 
-If you use this code, please cite our paper:
+```bibtex
+@misc{honarpisheh2025frequencyresponseidentificationloworder,
+  title={Frequency Response Identification of Low-Order Systems: Finite-Sample Analysis}, 
+  author={Arya Honarpisheh and Mario Sznaier},
+  year={2025},
+  eprint={2508.17142},
+  archivePrefix={arXiv},
+  primaryClass={eess.SY},
+  url={https://arxiv.org/abs/2508.17142}, 
+}
 
-> A. Honarpisheh, M. Sznaier, *“Frequency Response Identification of Low-Order Systems: Finite-Sample Analysis”*.
 

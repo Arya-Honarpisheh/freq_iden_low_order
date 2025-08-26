@@ -1,6 +1,6 @@
 # freq_iden_low_order
 
-This repository contains the MATLAB code accompanying the paper **“Frequency Response Identification of Low-Order Systems: Finite-Sample Analysis.”**
+This repository contains the MATLAB code accompanying the paper [**“Frequency Response Identification of Low-Order Systems: Finite-Sample Analysis”**](https://arxiv.org/abs/2508.17142).
 
 The code reproduces all experiments and numerical validations presented in the paper. It is organized around a few main scripts and helper functions.
 

@@ -61,14 +61,11 @@ This code is released MIT License. See the [LICENSE](LICENSE) file for details.
 If you use this work, please cite:
 
 ```bibtex
-@misc{honarpisheh2025frequencyresponseidentificationloworder,
-  title={Frequency Response Identification of Low-Order Systems: Finite-Sample Analysis}, 
-  author={Arya Honarpisheh and Mario Sznaier},
-  year={2025},
-  eprint={2508.17142},
-  archivePrefix={arXiv},
-  primaryClass={eess.SY},
-  url={https://arxiv.org/abs/2508.17142}, 
+@article{honarpisheh2025frequency,
+  title={Frequency Response Identification of Low-Order Systems: Finite-Sample Analysis},
+  author={Honarpisheh, Arya and Sznaier, Mario},
+  journal={arXiv preprint arXiv:2508.17142},
+  year={2025}
 }
 
 
